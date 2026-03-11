@@ -8,6 +8,7 @@ Google Maps Plus Code: 5JJ9+96 Petaling Jaya, Selangor
 > [!WARNING] 
 > Note that when you get close, there's a fork in the road, and you **NEED** to go to the right, where the arch says ForestHill.
 
+
 ![Image showing where to turn](img/fh1.jpeg)
 If you miss this turn, good luck getting out of Flora Damansara. 
 
