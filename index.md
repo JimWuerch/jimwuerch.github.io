@@ -1,1 +1,1 @@
-[Gaming Info](gaming/index.md)
+[Gaming Info](gaming.md)
