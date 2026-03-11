@@ -10,4 +10,4 @@ ForestHill uses [JagaApp](https://jagasolution.com/jagaapp/) for visitor managem
 
 # Parking
 Please park in any of the marked blue areas only.  Do not park in front of anyone's house!
-[Parking](img/fh_parking.png)
+![Parking](img/fh_parking.png)
