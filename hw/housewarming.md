@@ -11,12 +11,8 @@ Google Maps Plus Code: 5JJ9+96 Petaling Jaya, Selangor
 If you miss this turn, good luck getting out of Flora Damansara. 
 
 # Parking
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+**ONLY PARK ON THE STREETS MARKED.  DO NOT PARK IN FRONT OF NEIGHBORS HOUSES!**
 
-<div class="flash flash-warn">
-  <strong>Warning:</strong> This is a styled alert.
-</div>
-
-Please park in any of the marked blue areas only.  Do not park in front of anyone's house!
-![Parking](/img/fh_parking.png)
+Please park in any of the marked blue areas only.
+![Parking](/img/fh_parking2.png)
+**Do not park on any of the lettered streets**
